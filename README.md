@@ -1,5 +1,5 @@
 ---
-title: Movie Nutz
+title: Movie Mania
 emoji: 🔥
 colorFrom: pink
 colorTo: red
